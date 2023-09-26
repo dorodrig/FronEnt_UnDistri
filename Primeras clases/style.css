@@ -1,0 +1,17 @@
+.title{
+    color: blue;
+    text-align: center;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-shadow: 2px 2px 5px #000000;    
+}
+.fristdive{
+ background-color: aquamarine;
+ border-radius: 10px solid black;
+ text-align: center;
+}
+#imglogo{
+display: flexbox;
+width: 200px;
+
+}
